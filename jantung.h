@@ -7,7 +7,7 @@ public:
     Jantung() {
         cout << "Jantung Ditambah\n";
     }
-
+    
     ~Jantung() {
         cout << "Jantung Dimatikan\n";
     }
